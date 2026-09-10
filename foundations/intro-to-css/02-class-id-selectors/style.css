@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p {
+    background-color: #eaa4b1;
+    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+div {
+    font-family:'Times New Roman', Times, serif
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #6dee6d;
+    font-size: 24px;
+    font-weight: bold;
+}
